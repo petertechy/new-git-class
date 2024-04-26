@@ -2,3 +2,13 @@ h1{
     color: red;
     font-size: 70px;
 }
+ul {
+    list-style: none;
+    display: inline-flex;
+    gap: 20px;
+    color: black;
+    font-size: 20px;
+}
+ul li{
+   
+}
